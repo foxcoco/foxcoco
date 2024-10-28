@@ -1,1 +1,1 @@
-![Stats SVG](https://stats-j8rv1arat-foxcocos-projects.vercel.app/api/github-status?username=foxcoco)
+![Stats SVG](https://stats-svg-green.vercel.app/api/github-status?username=foxcoco)
